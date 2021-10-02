@@ -1,0 +1,2459 @@
+[
+  {
+    "od": "od_1024",
+    "price": "0.95",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1025",
+    "price": "1.35",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1026",
+    "price": "1.75",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1027",
+    "price": "2.05",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1028",
+    "price": "2.30",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1029",
+    "price": "2.90",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1030",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "SIGN",
+    "time": "2021-09-26 21:20:50",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1031",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1032",
+    "price": "1.10",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:50",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1033",
+    "price": "1.35",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1034",
+    "price": "1.95",
+    "road": "495",
+    "ratetype": "SIGN",
+    "time": "2021-09-26 21:20:51",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1035",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1036",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1037",
+    "price": "1.15",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1038",
+    "price": "1.10",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:47",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1039",
+    "price": "4.90",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1040",
+    "price": "4.90",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1041",
+    "price": "4.90",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1042",
+    "price": "4.45",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1043",
+    "price": "3.65",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1044",
+    "price": "2.80",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1045",
+    "price": "1.15",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1046",
+    "price": "1.10",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1047",
+    "price": "4.35",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1048",
+    "price": "4.35",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1049",
+    "price": "4.35",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:46",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1050",
+    "price": "3.95",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1051",
+    "price": "3.10",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1052",
+    "price": "2.25",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:46",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1053",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:46",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1054",
+    "price": "4.05",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1055",
+    "price": "4.05",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:47",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1056",
+    "price": "4.05",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:47",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1057",
+    "price": "3.60",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:47",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1058",
+    "price": "2.75",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1059",
+    "price": "1.95",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:47",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1060",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1061",
+    "price": "3.75",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1062",
+    "price": "3.75",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1063",
+    "price": "3.75",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1064",
+    "price": "3.30",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1065",
+    "price": "2.50",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1066",
+    "price": "1.65",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1067",
+    "price": "3.35",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1068",
+    "price": "3.35",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1069",
+    "price": "3.35",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1070",
+    "price": "2.90",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1071",
+    "price": "2.10",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1072",
+    "price": "1.25",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1073",
+    "price": "2.10",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1074",
+    "price": "2.10",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1075",
+    "price": "2.10",
+    "road": "495",
+    "ratetype": "SIGN",
+    "time": "2021-09-26 21:20:54",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1076",
+    "price": "1.65",
+    "road": "495",
+    "ratetype": "SIGN",
+    "time": "2021-09-26 21:20:54",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1077",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "SIGN",
+    "time": "2021-09-26 21:20:54",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1078",
+    "price": "1.70",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1079",
+    "price": "1.70",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1080",
+    "price": "1.70",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1081",
+    "price": "1.25",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1082",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1083",
+    "price": "null",
+    "road": "495",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1084",
+    "price": "null",
+    "road": "495",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1085",
+    "price": "null",
+    "road": "495",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1086",
+    "price": "1.65",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1087",
+    "price": "2.20",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1088",
+    "price": "2.60",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1089",
+    "price": "3.00",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1090",
+    "price": "3.30",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1091",
+    "price": "3.55",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1092",
+    "price": "4.15",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1093",
+    "price": "1.15",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "open"
+  },
+  {
+    "od": "od_1094",
+    "price": "4.65",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1095",
+    "price": "7.35",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1096",
+    "price": "7.35",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1097",
+    "price": "8.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1098",
+    "price": "9.35",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1099",
+    "price": "9.35",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1100",
+    "price": "2.15",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1101",
+    "price": "4.90",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1102",
+    "price": "4.90",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1103",
+    "price": "5.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1104",
+    "price": "6.85",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1105",
+    "price": "6.85",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1106",
+    "price": "1.55",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:46",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1107",
+    "price": "4.30",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:46",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1108",
+    "price": "4.30",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:46",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1109",
+    "price": "4.90",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1110",
+    "price": "6.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1111",
+    "price": "6.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1112",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1113",
+    "price": "3.20",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1114",
+    "price": "3.20",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1115",
+    "price": "3.80",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1116",
+    "price": "5.15",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1117",
+    "price": "5.15",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1118",
+    "price": "2.85",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1119",
+    "price": "2.85",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1120",
+    "price": "3.45",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1121",
+    "price": "4.80",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1122",
+    "price": "4.80",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1123",
+    "price": "2.10",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:46",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1124",
+    "price": "2.10",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:46",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1125",
+    "price": "3.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1126",
+    "price": "4.05",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1127",
+    "price": "4.05",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1128",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:56",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1129",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:56",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1130",
+    "price": "3.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1131",
+    "price": "3.70",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1132",
+    "price": "3.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1133",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:49",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1134",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1135",
+    "price": "3.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1136",
+    "price": "3.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1137",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "null",
+    "status": "closed"
+  },
+  {
+    "od": "od_1138",
+    "price": "1.95",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "null",
+    "status": "closed"
+  },
+  {
+    "od": "od_1139",
+    "price": "2.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:51",
+    "direction": "null",
+    "status": "closed"
+  },
+  {
+    "od": "od_1140",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1141",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1142",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:44",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1143",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:44",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1144",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:44",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1145",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:44",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1146",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:47",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1147",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1148",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1149",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1150",
+    "price": "2.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1151",
+    "price": "3.70",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1152",
+    "price": "4.20",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1153",
+    "price": "4.60",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1154",
+    "price": "4.90",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1155",
+    "price": "5.95",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1156",
+    "price": "7.30",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1157",
+    "price": "11.45",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1158",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1159",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1160",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1161",
+    "price": "3.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1162",
+    "price": "3.35",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1163",
+    "price": "3.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1164",
+    "price": "4.05",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1165",
+    "price": "5.35",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1166",
+    "price": "6.45",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1167",
+    "price": "10.60",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1168",
+    "price": "2.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1169",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1170",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1171",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1172",
+    "price": "4.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1173",
+    "price": "5.60",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1174",
+    "price": "9.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1175",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1176",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1177",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1178",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1179",
+    "price": "4.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1180",
+    "price": "5.40",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1181",
+    "price": "9.55",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1182",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1183",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1184",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1185",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1186",
+    "price": "4.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1187",
+    "price": "5.40",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1188",
+    "price": "9.55",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1189",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1190",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1191",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1192",
+    "price": "3.60",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1193",
+    "price": "3.95",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1194",
+    "price": "7.80",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:37",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1195",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1196",
+    "price": "2.45",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1197",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1198",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "null",
+    "status": "closed"
+  },
+  {
+    "od": "od_1199",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "null",
+    "status": "closed"
+  },
+  {
+    "od": "od_1200",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1201",
+    "price": "2.50",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1202",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1203",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1204",
+    "price": "6.35",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1205",
+    "price": "6.95",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1206",
+    "price": "7.20",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1207",
+    "price": "7.20",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1208",
+    "price": "9.20",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1209",
+    "price": "9.70",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1210",
+    "price": "10.10",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1211",
+    "price": "10.40",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1212",
+    "price": "11.45",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1213",
+    "price": "12.80",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1214",
+    "price": "16.95",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1215",
+    "price": "null",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:11",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1216",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1217",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1218",
+    "price": "2.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1219",
+    "price": "2.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1220",
+    "price": "3.70",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1221",
+    "price": "4.20",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1222",
+    "price": "4.60",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1223",
+    "price": "4.90",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1224",
+    "price": "5.95",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1225",
+    "price": "7.30",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1226",
+    "price": "11.45",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "S",
+    "status": "closed"
+  },
+  {
+    "od": "od_1227",
+    "price": "9.35",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1228",
+    "price": "10.70",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1229",
+    "price": "12.15",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1230",
+    "price": "6.85",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1231",
+    "price": "8.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1232",
+    "price": "9.70",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1233",
+    "price": "6.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1234",
+    "price": "7.60",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1235",
+    "price": "9.05",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1236",
+    "price": "5.15",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1237",
+    "price": "6.55",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1238",
+    "price": "8.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1239",
+    "price": "4.80",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1240",
+    "price": "6.15",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1241",
+    "price": "7.60",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1242",
+    "price": "4.05",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1243",
+    "price": "5.45",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1244",
+    "price": "6.90",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1245",
+    "price": "3.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1246",
+    "price": "5.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1247",
+    "price": "6.55",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:39",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1248",
+    "price": "3.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1249",
+    "price": "5.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1250",
+    "price": "6.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:38",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1251",
+    "price": "2.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "null",
+    "status": "closed"
+  },
+  {
+    "od": "od_1252",
+    "price": "3.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "null",
+    "status": "closed"
+  },
+  {
+    "od": "od_1253",
+    "price": "4.80",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "null",
+    "status": "closed"
+  },
+  {
+    "od": "od_1254",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1255",
+    "price": "3.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1256",
+    "price": "4.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1257",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1258",
+    "price": "3.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1259",
+    "price": "4.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1260",
+    "price": "1.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1261",
+    "price": "3.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1262",
+    "price": "4.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1263",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1264",
+    "price": "3.00",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:47",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1265",
+    "price": "4.25",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:47",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1266",
+    "price": "null",
+    "road": "95",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1267",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:52",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1268",
+    "price": "2.85",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:52",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1269",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1270",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1271",
+    "price": "1.50",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1272",
+    "price": "2.75",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:45",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1273",
+    "price": "1.85",
+    "road": "95",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:44",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1001",
+    "price": "null",
+    "road": "495",
+    "ratetype": "DEFAULT",
+    "time": "2021-09-26 06:57:10",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1002",
+    "price": "1.65",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1003",
+    "price": "2.20",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1004",
+    "price": "2.60",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1005",
+    "price": "3.00",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1006",
+    "price": "3.30",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1007",
+    "price": "3.55",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1008",
+    "price": "4.15",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1009",
+    "price": "1.65",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1010",
+    "price": "2.20",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1011",
+    "price": "2.60",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1012",
+    "price": "3.00",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1013",
+    "price": "3.30",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1014",
+    "price": "3.55",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:36",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1015",
+    "price": "4.15",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:48",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1016",
+    "price": "1.25",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1017",
+    "price": "1.75",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:52",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1018",
+    "price": "2.20",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1019",
+    "price": "2.60",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:53",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1020",
+    "price": "2.85",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1021",
+    "price": "3.15",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:34",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1022",
+    "price": "3.75",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:20:53",
+    "direction": "N",
+    "status": "open"
+  },
+  {
+    "od": "od_1023",
+    "price": "0.85",
+    "road": "495",
+    "ratetype": "DTA",
+    "time": "2021-09-26 21:19:35",
+    "direction": "N",
+    "status": "open"
+  }
+]
