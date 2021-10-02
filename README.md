@@ -4,4 +4,4 @@ You'll find a json file from where these toll rates are getting updated. Decode 
 
 Load the data into a csv with all the entry and exit combinations along with the toll rates at that moment
 
-Link:https://replit.com/@vikash-kumar-singh9/MapUp#main.py
+Live Project Link:https://replit.com/@vikash-kumar-singh9/MapUp#main.py
